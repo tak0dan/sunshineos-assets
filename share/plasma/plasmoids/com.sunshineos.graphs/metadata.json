@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "com.sunshineos.graphs",
+    "Name": "Sunshine graphs",
+    "Description": "Live graphs for network, disk space, CPU and GPU, for the Sunshine top bar",
+    "Category": "System Information",
+    "Icon": "utilities-system-monitor",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{ "Name": "Sunshine OS" }],
+    "Version": "1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

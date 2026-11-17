@@ -1,0 +1,8 @@
+/* Sunshine Kando theme: dark smoked glass nodes with an orange-to-gold rim */
+.menu-node, .center-text { --sunshine-rim: linear-gradient(135deg, #e87932, #f5a442, #ffd27a); }
+.menu-node { background: rgba(25, 25, 35, 0.86); border: 2px solid #f5a442; box-shadow: 0 0 14px rgba(232, 121, 50, 0.35); color: #f4f0eb; }
+.menu-node:hover, .menu-node.hovered { border-color: #ffd27a; box-shadow: 0 0 20px rgba(255, 210, 122, 0.55); }
+.menu-node.active { background: rgba(232, 121, 50, 0.85); }
+.menu-node.parent { border-color: #e87932; }
+.connector { background: #f5a442; opacity: 0.8; }
+.center-text { color: #ffd27a; font-weight: 600; }

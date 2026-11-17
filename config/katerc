@@ -1,0 +1,20 @@
+[General]
+Show Menu Bar=true
+
+[KTextEditor Renderer]
+Schema=Breeze Dark
+
+[KTextEditor Document]
+Auto Completion=true
+Auto Completion Min Chars=2
+Backup Flags=0
+
+[Kate Plugins]
+lspclientplugin=true
+katesymbolviewerplugin=true
+katefilebrowserplugin=true
+katectagsplugin=true
+kateprojectplugin=true
+katesnippetsplugin=true
+katebuildplugin=true
+katexmlcheckplugin=true

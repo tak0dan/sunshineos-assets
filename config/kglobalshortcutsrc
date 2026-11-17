@@ -1,0 +1,5 @@
+[services][org.kde.spectacle.desktop]
+RectangularRegionScreenShot=Meta+Shift+S
+
+[services][org.kde.konsole.desktop]
+_launch=Meta+Q

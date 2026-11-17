@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "com.sunshineos.updates",
+    "Name": "Sunshine updates",
+    "Description": "Update checker and manager: a red dot when package updates exist, a download arrow for distro, Sunshine repository or 50+ package updates",
+    "Category": "System Information",
+    "Icon": "system-software-update",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{ "Name": "Sunshine OS" }],
+    "Version": "1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

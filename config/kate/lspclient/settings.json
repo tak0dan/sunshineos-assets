@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "c": { "command": ["clangd", "--background-index"], "url": "https://clangd.llvm.org/", "highlightingModeRegex": "^(C|ANSI C89|Objective-C)$" },
+    "cpp": { "command": ["clangd", "--background-index"], "url": "https://clangd.llvm.org/", "highlightingModeRegex": "^(C\\+\\+|ISO C\\+\\+|Objective-C\\+\\+)$" },
+    "csharp": { "command": ["OmniSharp", "-lsp"], "url": "https://github.com/OmniSharp/omnisharp-roslyn", "highlightingModeRegex": "^C#$" },
+    "java": { "command": ["jdtls"], "url": "https://github.com/eclipse-jdtls/eclipse.jdt.ls", "highlightingModeRegex": "^Java$" },
+    "javascript": { "command": ["typescript-language-server", "--stdio"], "url": "https://github.com/typescript-language-server/typescript-language-server", "highlightingModeRegex": "^(JavaScript|JavaScript React|TypeScript|TypeScript React)$" },
+    "sql": { "command": ["sqls"], "url": "https://github.com/sqls-server/sqls", "highlightingModeRegex": "^(SQL|SQL \\(MySQL\\)|SQL \\(PostgreSQL\\))$" },
+    "nix": { "command": ["nixd"], "url": "https://github.com/nix-community/nixd", "highlightingModeRegex": "^Nix$" },
+    "python": { "command": ["pylsp"], "url": "https://github.com/python-lsp/python-lsp-server", "highlightingModeRegex": "^Python$" },
+    "rust": { "command": ["rust-analyzer"], "url": "https://rust-analyzer.github.io/", "highlightingModeRegex": "^Rust$" },
+    "ruby": { "command": ["solargraph", "stdio"], "url": "https://solargraph.org/", "highlightingModeRegex": "^Ruby$" },
+    "lua": { "command": ["lua-language-server"], "url": "https://github.com/LuaLS/lua-language-server", "highlightingModeRegex": "^Lua$" },
+    "bash": { "command": ["bash-language-server", "start"], "url": "https://github.com/bash-lsp/bash-language-server", "highlightingModeRegex": "^(Bash|Zsh|Shell)$" }
+  }
+}

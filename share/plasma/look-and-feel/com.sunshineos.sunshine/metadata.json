@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Sunshine OS"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Description": "Sunshine OS: a dark Windows 11 style in the Sunshine palette (indigo, cream, orange)",
+        "Id": "com.sunshineos.sunshine",
+        "License": "GPL-3.0-or-later",
+        "Name": "Sunshine theme",
+        "Website": "https://github.com/tak0dan/SunshineOS"
+    }
+}

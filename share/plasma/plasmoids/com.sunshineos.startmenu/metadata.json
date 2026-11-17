@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "com.sunshineos.startmenu",
+    "Name": "Sunshine start menu",
+    "Description": "Windows 11 style start menu: search, pinned apps, recommended files, user and power buttons",
+    "Category": "Application Launchers",
+    "Icon": "sunshine-menu",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{ "Name": "Sunshine OS" }],
+    "Version": "1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

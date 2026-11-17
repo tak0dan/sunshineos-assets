@@ -1,0 +1,14 @@
+{
+  "KPlugin": {
+    "Id": "com.sunshineos.windowbar",
+    "Name": "Sunshine window bar",
+    "Description": "Window buttons and the title of the active window, for the top bar (like Garuda's)",
+    "Category": "Windows and Tasks",
+    "Icon": "window",
+    "License": "GPL-3.0-or-later",
+    "Authors": [{ "Name": "Sunshine OS" }],
+    "Version": "1.0"
+  },
+  "X-Plasma-API-Minimum-Version": "6.0",
+  "KPackageStructure": "Plasma/Applet"
+}

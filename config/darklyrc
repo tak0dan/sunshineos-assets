@@ -1,0 +1,5 @@
+[Style]
+WidgetDrawShadow=false
+# 20% transparent Dolphin: backgrounds are translucent, text and icons stay fully opaque (same as the terminals).
+DolphinViewOpacity=80
+DolphinSidebarOpacity=80

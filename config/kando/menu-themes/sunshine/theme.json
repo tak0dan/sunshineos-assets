@@ -1,0 +1,14 @@
+{
+  "name": "Sunshine",
+  "author": "Sunshine OS",
+  "themeVersion": "1.0",
+  "kandoVersion": "2.0.0",
+  "license": "GPL-3.0-or-later",
+  "centerTextWedges": false,
+  "drawChildrenBelow": false,
+  "drawSelectionBelow": false,
+  "drawWedgesBelow": true,
+  "maxMenuRadius": 260,
+  "minMenuRadius": 120,
+  "layers": [{ "content": "icon", "colorMode": "fixed", "color": "#f4f0eb", "size": 24 }]
+}

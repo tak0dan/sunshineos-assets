@@ -1,0 +1,14 @@
+[DetailsMode]
+PreviewSize=32
+
+[FoldersPanel]
+HiddenFilesShown=true
+
+[General]
+GlobalViewProps=false
+ShowFullPath=true
+ShowStatusBar=FullWidth
+Version=202
+
+[MainWindow]
+MenuBar=Disabled

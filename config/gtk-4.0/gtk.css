@@ -1,0 +1,24 @@
+/* Sunshine OS: palette for GTK apps (Pamac, GitHub Desktop, ...) */
+@define-color accent_bg_color #e87932;
+@define-color accent_color #f5a442;
+@define-color accent_fg_color #ffffff;
+@define-color window_bg_color #151729;
+@define-color window_fg_color #f4f0eb;
+@define-color view_bg_color #0b1020;
+@define-color view_fg_color #f4f0eb;
+@define-color headerbar_bg_color #0b1020;
+@define-color headerbar_fg_color #f4f0eb;
+@define-color headerbar_border_color #e87932;
+@define-color sidebar_bg_color #191923;
+@define-color card_bg_color #24202a;
+@define-color popover_bg_color #191923;
+@define-color dialog_bg_color #191923;
+@define-color destructive_bg_color #e5484d;
+@define-color success_bg_color #9be37a;
+@define-color warning_bg_color #f5a442;
+headerbar, .titlebar { background: #0b1020; border-bottom: 1px solid #e87932; }
+button.suggested-action, button.pill.suggested-action { background: linear-gradient(90deg, #e87932, #f5a442); color: #2a1a0e; border-radius: 10px; }
+button { border-radius: 8px; }
+entry, searchbar entry { border: 1px solid rgba(232,121,50,.7); border-radius: 8px; background: rgba(18,19,28,.8); }
+entry:focus { border-color: #ffd27a; }
+popover > contents, menu { background: rgba(25,25,35,.86); border: 1px solid rgba(232,121,50,.7); border-radius: 12px; }
